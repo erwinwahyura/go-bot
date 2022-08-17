@@ -1,2 +1,10 @@
 # go-bot
-education purpose to create ai bot
+
+## Introduction
+
+Go Bot is discord bot for fun and still in development ( cant be use publicly )
+go bot powered by OpenAI that make it super powerful!
+
+
+## How to Use?
+TBD
