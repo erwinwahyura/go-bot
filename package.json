@@ -1,0 +1,25 @@
+{
+  "name": "go-bot",
+  "version": "1.0.0",
+  "description": "education purpose to create ai bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erwinwahyura/go-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erwinwahyura/go-bot/issues"
+  },
+  "homepage": "https://github.com/erwinwahyura/go-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.2.0",
+    "dotenv": "^16.0.1",
+    "openai": "^3.0.0"
+  }
+}
