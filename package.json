@@ -4,7 +4,7 @@
   "description": "education purpose to create ai bot",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js"
+    "start": "pm2-runtime start ecosystem.config.js --env production"
   },
   "heroku-run-build-script": true,
   "repository": {
