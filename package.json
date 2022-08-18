@@ -4,7 +4,8 @@
   "description": "education purpose to create ai bot",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "webpack"
   },
   "heroku-run-build-script": true,
   "repository": {
